@@ -1,7 +1,7 @@
 # Prueba_SegundoParcial
 
 ## Descripción
-`Prueba_SegundoParcial` es una aplicación web para la gestión de evaluaciones académicas. Utiliza una arquitectura de tres capas que incluye una interfaz de usuario (capa de presentación), lógica de negocio (backend) y acceso a datos (almacenamiento persistente).
+`PruebaWebA-2P` es una aplicación web para la gestión de evaluaciones académicas. Utiliza una arquitectura de tres capas que incluye una interfaz de usuario (capa de presentación), lógica de negocio (backend) y acceso a datos (almacenamiento persistente).
 
 ## Objetivo del Proyecto
 El proyecto tiene como objetivo principal ofrecer una solución simple y eficaz para la creación y gestión de evaluaciones académicas, facilitando la tarea de organizar preguntas y respuestas en un entorno educativo.
@@ -50,7 +50,7 @@ Asegúrate de tener instalado Node.js en tu sistema antes de ejecutar la aplicac
 El proyecto sigue la estructura de una aplicación de 3 capas:
 
 ``` markdown
-Prueba_SegundoParcial/
+PruebaWebA_2P/
 │
 ├── backend/
 │   ├── routes/
@@ -83,6 +83,7 @@ Prueba_SegundoParcial/
 │   └── ...
 │
 └── README.md
+└── Evidencias
 ```
 ## Implementación Paso a Paso
 
@@ -120,6 +121,10 @@ El servidor estará disponible en [http://localhost:3001](http://localhost:3001)
 
 ### 6. Abre tu Navegador
 Ve a [http://localhost:5173](http://localhost:5173) para ver la aplicación de Ingreso de Evaluaciones.
+
+## Evidencias:
+La carpeta Evidencias muestra imágenes de cómo se ve la página, sus funcionalidades y como esta cambia según los cambios realizados por el profesor.
+![Imagen](https://github.com/RicardoRivadeneira/PruebaWebA_2P/blob/master/Evidencias/EvaluacionRegistrada.png)
 
 ## Elaborado por:
 Ricardo Rivadeneira
