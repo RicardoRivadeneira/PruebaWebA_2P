@@ -1,0 +1,56 @@
+/* QuestionForm.css */
+
+.question-form {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa; /* Cambié el color de fondo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-input,
+  .add-option-button,
+  .add-question-button {
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border: 1px solid #007bff;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #007bff;
+    background-color: #fff; /* Cambié el color de fondo */
+  }
+  
+  .remove-option-button {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 14px;
+  }
+  
+  .remove-option-button:hover {
+    background-color: #bd2130;
+  }
+  
+  .add-option-button,
+  .add-question-button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 16px;
+  }
+  
+  .add-option-button:hover,
+  .add-question-button:hover {
+    background-color: #218838;
+  }
+  

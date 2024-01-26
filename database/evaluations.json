@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "subject": "Matemáticas",
+    "questions": [
+      {
+        "id": 1,
+        "questionText": "¿Pregunta 1?",
+        "options": [
+          "Opción 1",
+          "Opción 2",
+          "Opción 3"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Desarrollo Web Avanzado",
+    "questions": [
+      {
+        "questionText": "¿Qué es React?",
+        "options": [
+          "Una Librería",
+          "Una Biblioteca",
+          "Un Framework"
+        ]
+      },
+      {
+        "questionText": "¿Docker necesita virtualización?",
+        "options": [
+          "Verdadero",
+          "Falso"
+        ]
+      }
+    ],
+    "id": 2
+  }
+]
